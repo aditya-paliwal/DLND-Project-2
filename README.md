@@ -8,6 +8,14 @@ In this project,we'll classify images from the CIFAR-10 dataset. The dataset con
 
 The dataset will come from [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) 
 
+### Topics Covered
+
+- Deep Neural Networks
+- Convolutional Neural Networks (CNN)
+- TensorFlow
+- Cloud Computing
+
+
 ### Prerequisites
 
 Python 3
