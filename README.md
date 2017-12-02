@@ -1,4 +1,4 @@
-# Title
+# Project Title
 
 Image Classification
 
