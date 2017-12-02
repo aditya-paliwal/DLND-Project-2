@@ -18,11 +18,9 @@ The dataset will come from [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/c
 
 ### Prerequisites
 
-Python 3
-
-TensorFlow
-
-JupyterNotebook
+- Python 3
+- TensorFlow
+- JupyterNotebook
 
 ### Installing
 
