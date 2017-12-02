@@ -28,7 +28,7 @@ The step by step code and execution can be fouud in:
 
 dlnd_image_classification.ipynb
 
-Review
+### Review
 
 The complete project review by a Udacity Reviewer can be seen here:
 
