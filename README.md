@@ -32,7 +32,7 @@ In order to install the TensorFlow, visit:
 
 ### Code
 
-The step by step code and execution can be fouud in:
+The step by step code and execution can be seen in:
 
 dlnd_image_classification.ipynb
 
