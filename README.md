@@ -10,14 +10,16 @@ The dataset will come from [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/c
 
 ### Topics Covered
 
+Following topics were covered for writing effective code for this project
 - Deep Neural Networks
 - Convolutional Neural Networks (CNN)
 - TensorFlow
-- Cloud Computing
+- Cloud Computing(floydhub)
 
 
 ### Prerequisites
 
+The requirements can be listed as:
 - Python 3
 - TensorFlow
 - JupyterNotebook
