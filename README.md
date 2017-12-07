@@ -7,7 +7,8 @@ Use of Recurrent Neural Network in Image Classification
 This was my second project in 17-week Udacity Deep Learning Nanodegree Foundation.In this project, the images from the CIFAR-10 dataset were classified.The dataset consists of images such as airplanes, dogs, cats, and other objects.
 
 Further Steps involved:
-- The dataset needs to be preprocessed.
+
+- The given dataset was preprocessed.
 - Training of convolutional neural network on all the samples.
 - The images were normalized and the labels were to be one-hot encoded
 - The Building of a convolutional layer, max pool layer, and fully connected layer.
